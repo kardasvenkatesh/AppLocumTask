@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kardasvenkatesh_practical_task</string>
+
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="submit">Submit</string>
+
+</resources>
